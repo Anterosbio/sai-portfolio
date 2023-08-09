@@ -123,6 +123,8 @@ footer{
     width:100%;
     padding: 70px 30px 20px;
     font-size: 18px;
+    text-decoration: none;
+    list-style: none;
     text-transform: uppercase;
     
     color: white;

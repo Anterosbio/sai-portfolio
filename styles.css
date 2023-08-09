@@ -66,6 +66,9 @@ nav li a{
     align-items: center;
     justify-content: center;
     margin-bottom: 1em;
+    max-height: 4em;
+    margin-top: 15px;
+    padding: 5px;
 }
 
 .icon{

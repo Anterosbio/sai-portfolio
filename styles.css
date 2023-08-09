@@ -116,6 +116,8 @@ nav li a{
 }
 footer{
     background-color:#000000;
+    text-decoration: none;
+    list-style: none;
 }
 .footercontainer{
     width:100%;
@@ -124,9 +126,9 @@ footer{
     text-transform: uppercase;
     
     color: white;
-    text-decoration: none;
+    
     display: inline-block;
-    list-style: none;
+    
 
 
 }
